@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    height: 150vh;
+}
+
+
+
+#container {
+    background-image: linear-gradient(20deg, aliceblue, purple); 
+    position: relative;
+    margin-left: 50%;
+    transform: translate(-50%,0px);
+    width: 35%;
+    height: 100%;
+}
